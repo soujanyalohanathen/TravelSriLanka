@@ -8,7 +8,7 @@
 
 header{
     background-image: linear-gradient(rgba(0,0,0,0.25),rgba(0,0,0,0.25)), url(../vVY8PJ.jpg);
-    max-width:100%;
+    object-fit:cover;
     
     height:auto;    
     background-size: 150px;
