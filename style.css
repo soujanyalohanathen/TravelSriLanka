@@ -6,10 +6,10 @@
 }
 
 header{
-    background-image: linear-gradient(rgba(0,0,0,0.25),rgba(0,0,0,0.25)), url(vVY8PJ.jpg);
-    width:100%
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(../vVY8PJ.jpg);
     
-    height:auto;    
+    width : 100%;
+    height: 100vh;
     background-size: cover;
     background-position: center;
 }
